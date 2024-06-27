@@ -1,4 +1,4 @@
-# core-python
+# CDAC-python
 This is first library officially made during CDAC
 GIT = Version control system (DVCS= distributed version control sys)
 People working on different systems for a collabrative project all can have copy of this file on local machine but the code resides on github repo.
