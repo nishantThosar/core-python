@@ -7,3 +7,12 @@ Currently GITHub is owned by Mucrosoft no more open source.
 By default Main branch is created.
 We can merge the branches to main after testting.
 Gitlab is an micro verson of github. used by many startups.
+
+SSH generating key (pki (public private infra))
+1) run command "ssh-keygen"
+2) go to home/.ssh "~/.ssh"
+3) cat id_rsa.pub
+4) go to profile->setting->SSH & GPG Keys->New SSH Key->Insert Title & key
+5) git config --global user.email <github email>
+6) git config --global user.name <github username>
+7) conform with command "git config --list"
