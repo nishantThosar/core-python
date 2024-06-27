@@ -30,3 +30,4 @@ GIT cloning
 5)Now the repo will be copied to your local maching at that path in which you opend the terminal.
 
 To list the branch of GIT type "git branch"
+To make a new branch "git checkout -b branch_name" //This will also switch to a new branch
