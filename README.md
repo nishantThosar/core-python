@@ -23,8 +23,8 @@ GIT cloning
 
 2)Copy the ssh by clicking "code" (green button)
 
-3)now go to the file where you want to clone the git repo
+3)Now go to the file where you want to clone the git repo
 
-4) open terminal at that path and type "git clone ssh_that_you_copied"
+4)Open terminal at that path and type "git clone ssh_that_you_copied"
 
-5) Now the repo will be copied to your local maching at that path in which you opend the terminal.
+5)Now the repo will be copied to your local maching at that path in which you opend the terminal.
