@@ -33,7 +33,6 @@ To make a new branch "git checkout -b branch_name" //This will also switch to a 
 To get the changes of file "git status"
 
 # Commands to push the files on GITHub
-
 1)git status (red file is not added in git it is still in staging area).
 
 2) git add filename
