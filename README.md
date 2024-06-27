@@ -20,14 +20,14 @@ SSH generating key (pki (public private infra))
 GIT cloning
 
 1)Go to repo
-
 2)Copy the ssh by clicking "code" (green button)
-
 3)Now go to the file where you want to clone the git repo
-
 4)Open terminal at that path and type "git clone ssh_that_you_copied"
-
 5)Now the repo will be copied to your local maching at that path in which you opend the terminal.
 
 To list the branch of GIT type "git branch"
 To make a new branch "git checkout -b branch_name" //This will also switch to a new branch
+To get the changes of file "git status"
+
+Commands to push the files on GITHub
+1)
