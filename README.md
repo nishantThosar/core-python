@@ -18,7 +18,6 @@ Gitlab is an micro verson of github. used by many startups.
 7) conform with command "git config --list"
 
 # GIT cloning
-
 1)Go to repo
 
 2)Copy the ssh by clicking "code" (green button)
