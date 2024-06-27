@@ -8,7 +8,7 @@ By default Main branch is created.
 We can merge the branches to main after testting.
 Gitlab is an micro verson of github. used by many startups.
 
-SSH generating key (pki (public private infra))
+#SSH generating key (pki (public private infra))
 1) run command "ssh-keygen"
 2) go to home/.ssh "~/.ssh"
 3) cat id_rsa.pub
@@ -17,7 +17,7 @@ SSH generating key (pki (public private infra))
 6) git config --global user.name <github username>
 7) conform with command "git config --list"
 
-GIT cloning
+#GIT cloning
 
 1)Go to repo
 
@@ -33,5 +33,12 @@ To list the branch of GIT type "git branch"
 To make a new branch "git checkout -b branch_name" //This will also switch to a new branch
 To get the changes of file "git status"
 
-Commands to push the files on GITHub
-1)
+#Commands to push the files on GITHub
+
+1)git status (red file is not added in git it is still in staging area).
+
+2) git add filename
+3) git commit -m "message about file"
+4) git remote -v //for github repo url
+5) git push origin brabch_name
+
