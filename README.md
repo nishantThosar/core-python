@@ -28,3 +28,5 @@ GIT cloning
 4)Open terminal at that path and type "git clone ssh_that_you_copied"
 
 5)Now the repo will be copied to your local maching at that path in which you opend the terminal.
+
+To list the branch of GIT type "git branch"
