@@ -40,5 +40,5 @@ To get the changes of file "git status"
 2) git add filename
 3) git commit -m "message about file"
 4) git remote -v //for github repo url
-5) git push origin brabch_name
+5) git push origin branch_name
 
