@@ -18,7 +18,6 @@ SSH generating key (pki (public private infra))
 7) conform with command "git config --list"
 
 GIT cloning
-
 1)Go to repo
 2)Copy the ssh by clicking "code" (green button)
 3)Now go to the file where you want to clone the git repo
