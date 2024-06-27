@@ -16,3 +16,10 @@ SSH generating key (pki (public private infra))
 5) git config --global user.email <github email>
 6) git config --global user.name <github username>
 7) conform with command "git config --list"
+
+GIT cloning
+1)Go to repo
+2)Copy the ssh by clicking "code" (green button)
+3)now go to the file where you want to clone the git repo
+4) open terminal at that path and type "git clone ssh_that_you_copied"
+5) Now the repo will be copied to your local maching at that path in which you opend the terminal.
